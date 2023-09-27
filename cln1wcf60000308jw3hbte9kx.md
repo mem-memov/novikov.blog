@@ -3,6 +3,7 @@ title: "Alice in Wonderland"
 datePublished: Wed Sep 27 2023 15:23:53 GMT+0000 (Coordinated Universal Time)
 cuid: cln1wcf60000308jw3hbte9kx
 slug: alice-in-wonderland
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695828638824/35651cac-133e-4af7-8036-2dcb24dd7610.webp
 tags: neural-networks, binet
 
 ---
