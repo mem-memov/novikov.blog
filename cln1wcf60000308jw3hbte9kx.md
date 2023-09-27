@@ -8,6 +8,6 @@ tags: neural-networks, binet
 
 ---
 
-I've loaded the phrase "Alice in Wonderland" into Binet library. And look what it gave back! Isn't it similar to neural network?
+I've loaded the phrase "Alice in Wonderland" into Binet library. And look what it gave back! Isn't it similar to a neural network?
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695827930394/3f6d9562-cbb7-44e3-b0dd-278024ecbb78.png align="center")
