@@ -8,7 +8,7 @@ tags: ai, binet
 
 ---
 
-If you follow the story of the Binet library, it might be of some interst to you that today it got at least 100 time performance boost.
+If you follow the story of the Binet library, it might be of some interst to you that today it got at least 100 times performance boost.
 
 The base level subproject "memory" was jungling bytes, now it works with ints.
 
