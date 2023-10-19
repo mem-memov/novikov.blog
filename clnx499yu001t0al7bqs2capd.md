@@ -10,4 +10,4 @@ tags: semantic-search, binet
 
 A short record in order not to loose the idea. Multimodal graphs can grow extremely large. To keep their size in bounds they can be cut into smaller parts. One can introduce a special modality that maps vertices of one patition to those of another partition. A special vertex type is also an option.
 
-BTW, today I contactes two major memory card producers. They might feel good when they notice how huge their market becomes. Now reaction yet, though.
+BTW, today I contactes two major memory card manufactures. They might feel good when they notice how huge their market becomes. Now reaction yet, though.
