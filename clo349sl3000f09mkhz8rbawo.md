@@ -8,7 +8,7 @@ tags: artificial-intelligence, database, graph
 
 ---
 
-Adding pictures into a graph was very slow. The cause of slow work has been now discovered. I have already reported that small chunks of data were at the heart of the problem. Now I seems to be not that large disturbance comapared to what has become known.
+Adding pictures into a graph was very slow. The cause of slow work has been now discovered. I have already reported that small chunks of data were at the heart of the problem. Now I seems to be not that large disturbance compared to what has become known.
 
 The number of operations to put a pixel into the graph was tremendous. It was checked at each dot of the raster whether the dot already existed. All target vertices of a height value and all target vertices of a width value were fetched to find a common target. Both values went above 1000. This gave a thousand checks at each of more than a million dots.
 
