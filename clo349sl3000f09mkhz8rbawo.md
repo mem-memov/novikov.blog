@@ -8,10 +8,10 @@ tags: artificial-intelligence, database, graph
 
 ---
 
-Adding pictures into a graph was wery slow. The cause of slow work has been now discovered. I have already reported that small chunks of data were at the heart of the problem. Now I seems to be not that large disturbance comapared to what has become known.
+Adding pictures into a graph was very slow. The cause of slow work has been now discovered. I have already reported that small chunks of data were at the heart of the problem. Now I seems to be not that large disturbance comapared to what has become known.
 
 The number of operations to put a pixel into the graph was tremendous. It was checked at each dot of the raster whether the dot already existed. All target vertices of a height value and all target vertices of a width value were fetched to find a common target. Both values went above 1000. This gave a thousand checks at each of more than a million dots.
 
 So, I decided to run initialization at the start and then do no more checks. The vertex IDs will be kept in a 2-dimentional array.
 
-I hope to get better measurments in JVM-version as well.
+I hope to get better measurements in JVM-version as well.
