@@ -16,7 +16,7 @@ I enjoyed the event very much. Top notch organisation of every detail and very e
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698655070213/a859739d-f66c-4576-b8a9-c8a2ca8c098a.jpeg align="center")
 
-As you already know from posts in this blog I'm working on an in-memory graph database. So, the talk by Dmitry Karayev was most important for me.
+As you already know from posts in this blog I'm working on an in-memory graph database. So, the talk by Dmitry Karyayev was most important for me.
 
 Dmitry explained the internal workings of their in-memory database called Alien. It utilizes the off-heap memory via a Java API. The database itself is written in Scala. Type constraints prevent errors that could appear in a less strict programming language.
 
