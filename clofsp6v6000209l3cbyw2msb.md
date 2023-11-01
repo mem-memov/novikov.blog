@@ -20,7 +20,7 @@ So, what about Unicode with its 149.831 charcters? Can we construct a large cent
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698845829636/457371a3-d3d8-4223-b75a-2e6de3943f54.jpeg align="center")
 
-The solution that I observe in nature is by building pyramids of pyramids. Phrases which consist of words which consist of letters which consist of bits. Thes means that a text must have the property of language. It is either Russian or English or one of the other languages. The set of letters must be small. (Think about URLs with 1024 characters. What are they?)
+The solution that I observe in nature is by building pyramids of pyramids. Phrases which consist of words which consist of letters which consist of bits. This means that a text must have the property of language. It is either Russian or English or one of the other languages. The set of letters must be small. (Think about URLs with 1024 characters. What are they?)
 
 Ok. Now let's turn to vision. You see, 16 Million colours represent a large alphabet. The network can't possible be dense. But it is. First I thought that the density is placed in the speech processing network. It followed that one cannot understand the coloured blurs one sees whithout a text discription running in the background of one's mind.
 
