@@ -8,7 +8,7 @@ tags: graph-database, binet, smntc, multimodal-graph
 
 ---
 
-When dealing with word representations in a graph it became obvious that pracically everything gets connected to everything. Each letter gets connected to each possible letter that followed it at least once. Such a dense structure imposes its limitations on us. Namely the limitation of mathematical power operation.
+When dealing with word representations in a graph it became obvious that practically everything gets connected to everything. Each letter gets connected to each possible letter that followed it at least once. Such a dense structure imposes its limitations on us. Namely the limitation of mathematical power operation.
 
 We cannot have too many letters in an alphabet. Russian language has 33 letters. They even try to reduce the number to 32 eliminating the letter ё. English speaking people enjoy using 26 letters. Why not 256 letters?
 
@@ -16,7 +16,9 @@ It's because when one looks for pairs of letters reading a text sequentially one
 
 Chinese may seem not to suffer from this issue as the number of hieroglyphs lies around a several thousands. But I'm sure the overall connection density is the same. This is a sort of a universal constant that influences our thoughts and lives.
 
-So, what about Unicode with its 149.831 charcters? Can we construct a large centralized graph that stores all texts found on planet Earth and in the interstellar space? **No, we can't.** If you encounter yourself having 149.830 possible next characters in the text you read you won't be able to get assistence from computer systems. Normally we distinguish texts that make sense from rubbish texts by this sign. We believe it's an encrypted message, an compressed message, bytes of a program or just trash and nonsense.
+So, what about Unicode with its 149.831 charcters? Can we construct a large centralized graph that stores all texts found on planet Earth and in the interstellar space? **No, we can't.** If you encounter yourself having 149.830 possible next characters in the text you read you won't be able to get assistence even from computer systems. Normally we distinguish texts that make sense from rubbish texts by this sign. We believe it's an encrypted message, an compressed message, bytes of a program or just trash and nonsense.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698845829636/457371a3-d3d8-4223-b75a-2e6de3943f54.jpeg align="center")
 
 The sulution that I observe in nature is building pyramids of pyramids. Phrases which consist of words which consist of letters which consist of bits. Thes means that a text must have the property of language. It is either Russian or English or one of the other languages. The set of letters must be small. (Think about URLs with 1024 characters. What are they?)
 
