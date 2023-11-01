@@ -12,7 +12,7 @@ When dealing with word representations in a graph it became obvious that practic
 
 We cannot have too many letters in an alphabet. Russian language has 33 letters. They even try to reduce the number to 32 eliminating the letter ё. English speaking people enjoy using 26 letters. Why not 256 letters?
 
-It's because when one looks for pairs of letters reading a text sequentially one have to map them to neuron connections in one's head. If there too many letters the number of possible connections grows very fast. Each connection is built by a certain number of molecules. Very large number of connections weighs too much to fit into one's head. The same is true for computer systems. One has to be cunning to overcome this obstacle.
+It's because when one looks for pairs of letters reading a text sequentially one has to map them to neuron connections in one's head. If there too many letters the number of possible connections grows very fast. Each connection is built by a certain number of molecules. Very large number of connections weighs too much to fit into one's head. The same is true for computer systems. One has to be cunning to overcome this obstacle.
 
 Chinese may seem not to suffer from this issue as the number of hieroglyphs lies around a several thousands. But I'm sure the overall connection density is the same. This is a sort of a universal constant that influences our thoughts and lives.
 
