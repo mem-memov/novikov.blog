@@ -26,6 +26,6 @@ Ok. Now let's turn to vision. You see, 16 Million colours represent a large alph
 
 It may be true if you consider hypnosys where the doctor's words influence what the patient sees. Another example are tricks of a magician in a circus. There are other examples, but some of them are less positive.
 
-Now I've come to belive that the alphabet of vision is primarily of difference amounts. The amount by which the color of one pixel differs from the color of the neighbouring pixel. The coloured spots we see around us have the property of base colour. It's similar to texts I mentioned earlier. They have the property of language.
+Now I've come to believe that the alphabet of vision is primarily of difference amounts. The amount by which the color of one pixel differs from the color of the neighbouring pixel. The coloured spots we see around us have the property of base colour. It's similar to texts I mentioned earlier. They have the property of language.
 
 I'm going to experiment on it [here](https://codeberg.org/mem-memov/smntc).
