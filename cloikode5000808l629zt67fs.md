@@ -11,3 +11,5 @@ tags: multimodal-graph, visual-modality
 On my quest for meaning in visual modality I compared three frames of a video clip. If the colour of a dot hasn't changed much it becomes green.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699013213606/9baea6d6-57fd-4c9c-8a17-c9994bf6fcdf.bmp align="center")
+
+[YouTube](https://youtu.be/XfR9iY5y94s?si=CAxop0ExzFnT_ma2)
