@@ -12,4 +12,4 @@ I've got busy preparing slides for the presentation that I'm going to deliver in
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700039316909/f3f66944-d8bc-4af4-a1fc-d9fbecba1d24.png align="center")
 
-I hope that the conference organizer won't require me to change th aspect ratio.
+I hope that the conference organizer won't require me to change the aspect ratio.
