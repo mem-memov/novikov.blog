@@ -48,6 +48,8 @@ When the build process was finished, I found a JAR-file in the build/bin directo
 
 I added it into the **lib** dirctory of my SBT-project as unmanaged dependency.
 
+I copied the shared library libopencv\_[java480.so](http://java480.so) from build/lib into /usr/lib.
+
 I added it into my IDEA IDE as well.
 
 ```plaintext
@@ -58,4 +60,7 @@ Now I've got all the functions of OpenCV in Scala.
 
 ```scala
 import org.opencv.core.Core
+
+@main def helloCV: Unit =
+  System.loadLibrary(Core.NATIVE_LIBRARY_NAME)
 ```
