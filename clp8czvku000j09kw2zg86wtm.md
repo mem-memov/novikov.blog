@@ -48,7 +48,7 @@ When the build process was finished, I found a JAR-file in the build/bin directo
 
 I added it into the **lib** dirctory of my SBT-project as unmanaged dependency.
 
-I copied the shared library libopencv\_[java480.so](http://java480.so) from build/lib into /usr/lib.
+I copied the shared library `libopencv_`[`java480.so`](http://java480.so) from build/lib into /usr/lib.
 
 I added it into my IDEA IDE as well.
 
