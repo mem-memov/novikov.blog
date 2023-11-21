@@ -64,3 +64,5 @@ import org.opencv.core.Core
 @main def helloCV: Unit =
   System.loadLibrary(Core.NATIVE_LIBRARY_NAME)
 ```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700580639768/6ea5e81b-8549-4db0-bff1-22afcb9b1e0e.png align="center")
