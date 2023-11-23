@@ -3,7 +3,7 @@ title: "Vosk and Scala"
 datePublished: Thu Nov 23 2023 13:29:03 GMT+0000 (Coordinated Universal Time)
 cuid: clpb8cb1z00040al1hw61az6x
 slug: vosk-and-scala
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700746212367/78ed3545-22d2-42bb-a6d7-b306ec7dfba7.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700746299644/0721b9b3-11f6-44d4-8892-af2851ec8106.jpeg
 tags: scala, binet, multimodal-graph, vosk
 
 ---
