@@ -12,4 +12,4 @@ A object to series of pyramids.
 
 Those with close colors in smaller resolutions get followed further.
 
-Instead of finding structure by processing many images with a neural network we save image metadata as a semantic pyramid. We get similar resilts but we starts from the other end. We add image caterorization when saving the image and it has some formal protocol. New similar images appear in a close area of the multidimentional categorizer.
+Instead of finding structure by processing many images with a neural network we save image metadata as a semantic pyramid. We get similar results but we start from the other end. We add image caterorization when saving the image and it has some formal protocol. New similar images appear in a close area of the multidimentional categorizer.
