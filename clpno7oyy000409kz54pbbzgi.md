@@ -3,6 +3,7 @@ title: "Trusted money"
 datePublished: Sat Dec 02 2023 06:26:36 GMT+0000 (Coordinated Universal Time)
 cuid: clpno7oyy000409kz54pbbzgi
 slug: trusted-money
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GQD3Av_9A88/upload/5c214243efc1068499e8e677c20a8e4b.jpeg
 tags: money, innovation
 
 ---
