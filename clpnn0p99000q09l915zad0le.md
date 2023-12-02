@@ -11,4 +11,4 @@ One graph vertex with, say, 200 edges is a dot in 200-dimentional space with val
 
 How would you interpret adjacent vertices?
 
-A graph can be viewed as an area in a multidimentional space. In the vast magnitude of possible combinations it travks paths to areas that have sence in relation to the observed reality.
+A graph can be viewed as an area in a multidimentional space. In the vast magnitude of possible combinations it tracks paths to areas that have sence in relation to the observed reality.
