@@ -47,4 +47,4 @@ Grouping the dimensions in pairs should allow to reduce the number of steps and 
 
 Then it would be nice to apply some reduction. By this I mean adding vertices that represent real-world objects in this space and connecting all respective pixels to them.
 
-An interesting possibility is to make vertices in space to vertices on axes. Vertex clusters enable this, but I don't see practical application for this.
+An interesting possibility is to make vertices in space to vertices on axes. Vertex clusters enable this, but I don't see practical application for this, yet.
