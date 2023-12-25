@@ -30,17 +30,17 @@ Graph representation allows for drawing frame-like shapes in multiple dimensions
 
 Actually I want to put a short video clip into this form. Six dimensions are required for this:
 
-* the intensity of red
+* the intensity of red (256)
     
-* the intensity of green
+* the intensity of green (256)
     
-* the intensity of blue
+* the intensity of blue (256)
     
-* the vertical position in a raster
+* the vertical position in a raster (1080)
     
-* the horizontal position in a raster
+* the horizontal position in a raster (1920)
     
-* the number of the frame
+* the number of the frame (24)
     
 
 Grouping the dimensions in pairs should allow to reduce the number of steps and the number of edges that must be extracted to put a pixel into this film space.
