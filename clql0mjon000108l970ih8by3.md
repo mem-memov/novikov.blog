@@ -47,6 +47,6 @@ Grouping the dimensions in pairs should allow to reduce the number of steps and 
 
 Then it would be nice to apply some reduction. By this I mean adding vertices that represent real-world objects in this space and connecting all respective pixels to them.
 
-I think about making the frame axis of just 2 units and recording a whole second of video into it. Each time it will be the previous and the next frame with arrows pointing to similar pixels.
+I think about making the frame axis of just 2 units and recording a whole second of video into it. Each time it will be the previous and the next frame with arrows pointing to similar pixels. It would be advantageous to find some weird multidimensional effect to separate real-world objects. I have a suspicion that we as human beings rely on something of this sort.
 
 An interesting possibility is to make vertices in space to vertices on axes. Vertex clusters enable this, but I don't see practical application for this, yet.
