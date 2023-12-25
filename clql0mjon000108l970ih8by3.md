@@ -12,7 +12,7 @@ If we picture a dot in any dimension we can draw lines to respective marks on ea
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703512513349/8e01bd5f-e531-4461-a5fd-0d01aac1a5b7.jpeg align="center")
 
-It's clear that dots are vertices. Now what about axes you might ask. Axes can be represented as sequences on vertices that start at a root, as it is shown below.
+It's clear that dots are vertices. Now what about axes you might ask. Axes can be represented as sequences of vertices that start at a root, as it is shown below.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703512877995/3c7e6112-d084-4a30-9843-c6a93194d94b.jpeg align="center")
 
