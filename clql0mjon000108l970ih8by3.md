@@ -18,7 +18,7 @@ It's clear that dots are vertices. Now what about axes you might ask. Axes can b
 
 (Some mistakes here, but nevertheless it illustrates the idea.)
 
-The order of edges plays here a role, as you can see. So, such a vertex must have the exact number of edges that corresponds to the number of axis in this space. And the first edge must be always connected to the axis X.
+The order of edges plays a role here, as you can see. So, such a vertex must have the exact number of edges that corresponds to the number of axis in this space. And the first edge must be always connected to the axis X.
 
 An axis can be implemented as a binary layer of a multimodal graph. I posted some articles on this layer earlier.
 
