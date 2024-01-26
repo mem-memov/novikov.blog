@@ -24,4 +24,4 @@ Some people say that the tests I have in mind are no good because the tests know
 
 The code that should be generated is a function that uses other functions and the full list of dependencies is known. Language constructs are going to be wrapped into functions, so that they can be tracked when a test runs.
 
-I hope to conjure something of this sort today.
+I hope to conjure up something of this sort today.
