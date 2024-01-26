@@ -10,7 +10,7 @@ tags: tdd, test-to-code
 
 Recently I spent some time musing on the subject of a new programming language. Existing old and young languages have their advantages and disadvantages.
 
-Old languages have accumulated so much history and features that they've got bloated. Some of them are still not comfortable to use. You can choose a subset of a language to use for your small project, but you still have to learn all other bells and whistles in order to read other people's code.
+Old languages have accumulated so much history and features that they've got bloated. Some of them are still not comfortable to use. You can choose a subset of a language to use in your small project, but you still have to learn all other bells and whistles in order to read other people's code.
 
 Emerging languages may be backed by a company though most of them are an initiative of one or a few individuals. I feel always the risk that they get eventually abandoned and all the work that was put into a project goes puff.
 
