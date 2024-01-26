@@ -16,7 +16,7 @@ Emerging languages may be backed by a company though most of them are an initiat
 
 Creating a new programming language is a long endeavor that is bound to consume many years. It's not an option for me.
 
-I came to an idea of a transpiler that takes unit tests and spits out code. There is lots of benefits in it. First, programmers produce no untested code. Second, an existing language may be used. I believe this is a much better approach than generating tests that are based on code.
+I came to an idea of a transpiler that takes unit tests and spits out code. There are lots of benefits in it. First, programmers produce no untested code. Second, an existing language may be used. I believe this is a much better approach than generating tests that are based on code.
 
 Of course, it's a brand new methodology and some work is needed to figure out how to apply it best. Currently I think C is the best backend. Any language that can be transpiled to C may fit and there are some of them waiting out there.
 
