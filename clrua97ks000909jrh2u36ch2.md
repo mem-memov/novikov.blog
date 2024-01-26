@@ -18,7 +18,7 @@ Creating a new programming language is a long endeavor that is bound to consume 
 
 I came to an idea of a transpiler that takes unit tests and spits out code. There is lots of benefits in it. First, programmers produce no untested code. Second, an existing language may be used. I believe this is a much better approach than generating tests that are based on code.
 
-Of course, it's a brand new methodology and some work is needed to figure out how to apply it best. Currently I think C is the best backend. Any language that can be transpiled to C may fit and there some of them waiting out there.
+Of course, it's a brand new methodology and some work is needed to figure out how to apply it best. Currently I think C is the best backend. Any language that can be transpiled to C may fit and there are some of them waiting out there.
 
 Some people say that the tests I have in mind are no good because the tests know too much of the implementation details. They think that testing the interface is the way to go. I understand their arguments but these tests cannot be used for code generation in the way that I mean here.
 
