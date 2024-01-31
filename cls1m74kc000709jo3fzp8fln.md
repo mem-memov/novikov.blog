@@ -8,7 +8,7 @@ tags: graph-database, hxgn
 
 ---
 
-Last year I applied for registering hxgn with Russian patent agency. I sent them a short description and a basic implementation of the algorithm in C.
+Last year I applied for registering hxgn with the Russian patent agency. I sent them a short description and a basic implementation of the algorithm in C.
 
 > Program name: hxgn in-memory DBMS
 > 
