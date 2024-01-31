@@ -14,7 +14,7 @@ Last year I applied for registering hxgn with the Russian patent agency. I sent 
 > 
 > Applicant and author of the software: Novikov Alexander Alexandrovich
 > 
-> Abstract: The program is designed to save data in the computer memory in the form a directed graph consisting of vertices and arcs. Vertices and arcs occupy the same space in memory, making it possible to place them in one array, which ensures maximum read and write speeds, if memory for the entire array is reserved in advance. Identifiers vertices are array indices. Multiple vertices can be merged a special type of arcs into ring clusters. The program supports operations: 1) adding vertices, 2) connecting vertices with arcs, 3) counting incoming and outgoing arcs at a vertex, 4) obtaining attached vertices, 4) adding clusters, 5) adding a vertex to a cluster, 6) getting cluster vertices, 7) import and export.
+> Abstract: The program is designed to save data in the computer memory in the form a directed graph consisting of vertices and arcs. Vertices and arcs occupy the same space in memory, making it possible to place them in one array, which ensures maximum read and write speeds, if memory for the entire array is reserved in advance. Vertex identifiers are array indices. Multiple vertices can be merged with a special type of arcs into ring clusters. The program supports operations: 1) adding vertices, 2) connecting vertices with arcs, 3) counting incoming and outgoing arcs at a vertex, 4) obtaining attached vertices, 4) adding clusters, 5) adding a vertex to a cluster, 6) getting cluster vertices, 7) import and export.
 > 
 > Programming language: C
 
