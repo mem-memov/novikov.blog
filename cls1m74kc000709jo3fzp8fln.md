@@ -3,6 +3,7 @@ title: "hxgn registration"
 datePublished: Wed Jan 31 2024 09:58:21 GMT+0000 (Coordinated Universal Time)
 cuid: cls1m74kc000709jo3fzp8fln
 slug: hxgn-registration
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706695257163/be01821d-7033-4642-aa44-ae0941bbd690.jpeg
 tags: graph-database, hxgn
 
 ---
@@ -25,4 +26,4 @@ Today I've got the confirmation and the official URL:
 
 [https://fips.ru/EGD/da5fb425-4780-4dd6-b576-94fcb4011c65](https://fips.ru/EGD/da5fb425-4780-4dd6-b576-94fcb4011c65)
 
-hxgn stands for the word "hexagon". It's an in-memory DBMS for graphs.
+hxgn stands for the word "hexagon".
